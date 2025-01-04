@@ -61,7 +61,6 @@ onMounted(async () => {
       <button @click="deleteTask(index)">x</button>
     </li>
   </ul>
-
   <!--  <button v-on:click="toggleStatus">Change Status</button>-->
   <button @click="toggleStatus">Change Status</button>
 </template>
