@@ -2,7 +2,7 @@
   "name": "first-vue",
   "version": "0.0.0",
   "private": true,
-  "type": "module",
+//  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
