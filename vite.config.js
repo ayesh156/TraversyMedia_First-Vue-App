@@ -14,6 +14,6 @@ export default defineConfig({
     },
   },
   css: {
-    postcss: './postcss.config.js', // Specify the PostCSS config file explicitly
+    postcss: './postcss.config.cjs', // Specify the PostCSS config file explicitly
   },
 });
