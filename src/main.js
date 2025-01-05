@@ -1,4 +1,5 @@
-import './assets/main.css'
+import './assets/main.css';
+import './assets/tailwind.css';
 import "primeicons/primeicons.css";
 
 import { createApp } from 'vue'
